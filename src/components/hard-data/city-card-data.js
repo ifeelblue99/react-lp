@@ -10,12 +10,12 @@ const data = [
     cityName: 'Aydın',
   },
   {
-    id: 1,
+    id: 2,
     url: 'https://arkaguverte.com/wp-content/uploads/2018/06/6630B922-59E0-41F9-A7B6-F8CAF6C4077C.jpeg',
     cityName: 'Didim',
   },
   {
-    id: 1,
+    id: 3,
     url: 'https://img.balnet.net/cdn/location/akbuk-imgprms-default.jpg',
     cityName: 'Akbük',
   },
