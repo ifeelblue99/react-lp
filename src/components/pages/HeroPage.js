@@ -1,5 +1,5 @@
 import React from 'react';
-import WaveSvg from '../svg/AnimatedWaveSvg';
+import WaveSvg from '../svg/AnimatedWavesSvg';
 import './hero-styles.css';
 
 export default function Hero() {
