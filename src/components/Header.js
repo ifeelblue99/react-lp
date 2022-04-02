@@ -10,7 +10,7 @@ export default function Header() {
           &#8226; İletişim
         </a>
         <a className="nav-link" href="#">
-          &#8226; Hizmetlerimiz
+          &#8226; Hakımızda
         </a>
       </nav>
       <div id="social-media">
